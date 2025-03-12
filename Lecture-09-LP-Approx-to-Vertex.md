@@ -59,7 +59,7 @@ This gap is called the **integrality gap**.
 
 Given the LP optimal solution $z_1^*, z_2^*, ..., z_n^*$, we can round to get an approximation of the ILP solution:
 
-- Define $w_i^{\wedge} = \begin{cases} 
+-Define $w_i^{\wedge} = \begin{cases} 
 1 & \text{if } z_i^* \geq 0.5 \\
 0 & \text{if } z_i^* < 0.5
 \end{cases}$
