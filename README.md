@@ -2,15 +2,6 @@
 
 This repository contains notes and materials from a course on Approximation Algorithms and Linear Programming.
 
-## Overview
-
-This collection explores computational approaches to NP-hard optimization problems through:
-- Approximation algorithms with provable performance guarantees
-- Linear programming theory and practical formulations
-- Techniques for LP relaxations and randomized/deterministic rounding
-- Primal-dual methods and their applications
-- Analysis frameworks for establishing approximation bounds
-- Semidefinite programming and advanced approximation methods
 
 ## Structure
 
